@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
+img.navbar-brand{
+    height: 5rem;
+
+}
+
+img.rounded-circle {
+    margin: 1em;
+}
+
+a.btn.btn-secondary{
+    font-size: 1.5em;
+}
+
+p.footertext{
+    line-height: 1rem;
+    margin-bottom: 0.6rem;
+}
+
+img.footerimg{
+    height: 2.1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+p.small{
+    font-size: 0.7rem;
+}
+
+a.nav-link{
+    text-transform: uppercase;
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+    font-family: 'Work Sans', sans-serif;
+}
+
+body{
+    font-family: -apple-system,BlinkMacSystemFont,'Work Sans', "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    overflow-y:scroll;
+}
+
+@media (min-width: 1200px) { 
+body{
+    margin-top: 7rem!important;
+    padding-top: 0!important;
+}
+
+nav{
+    padding-left: 189.6px!important;
+    padding-right: 189.6px!important;
+    height: 7rem!important;
+    border-bottom-width: 1px!important;
+    border-color: #e7e7e7;
+    border-bottom-style: inset;
+
+    }
+
+.bg-light{
+        background-color: white!important;
+
+}
+
+}
